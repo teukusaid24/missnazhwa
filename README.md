@@ -1,6 +1,3 @@
-markdown
-
-Copy code
 # 📋 Sistem Absensi Siswa - Nazhwa Soraya
 
 Sistem absensi siswa digital modern, responsif, dan profesional dengan fitur lengkap termasuk export Excel per siswa dan keseluruhan data.
